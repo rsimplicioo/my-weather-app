@@ -41,7 +41,7 @@ expo --version
 Para ter acesso aos arquivos do projeto você pode clonar usando o seguinte comando:
 
 ```
-git clone https://github.com/rsimplicioo/challenge-builders.git
+git clone https://github.com/rsimplicioo/my-weather-app.git
 ```
 
 ### ▶️ Rodando o Projeto
